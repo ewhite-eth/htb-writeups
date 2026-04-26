@@ -11,10 +11,10 @@ Supposedly, we could just use nmap for this task.
 
 nmap breakdown: 
 
-sudo nmap -p21 -sC -A 10.129.67.59 .\
--sC: Script scanning, uses scripts from NSE (Nmap Script Engine)
--p21: Specifies the port and scans only this port which is FTP's default port
--A: Aggressive scan, includes OS detection, version scan, traceroute and NSE execution
+sudo nmap -p21 -sC -A 10.129.67.59 \
+-sC: Script scanning, uses scripts from NSE (Nmap Script Engine)\
+-p21: Specifies the port and scans only this port which is FTP's default port\
+-A: Aggressive scan, includes OS detection, version scan, traceroute and NSE execution\
 
 
 
