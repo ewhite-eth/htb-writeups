@@ -39,3 +39,4 @@ So what is the difference between these two? \
 Well, the GET method requires us to login insid the ftp ttl, and we can selectively download the files. On the other hand the wget method allows us to login right away, we just have to specify the login and password in the command, and contrary to the first method, the wget downloads all the files that could be downloaded and also saves them under a directory which is named after the IP address of the service.
 
 
+<img width="1668" height="462" alt="image" src="https://github.com/user-attachments/assets/1e6d5c56-6819-4ba8-9ace-a5a1acae08f6" />
