@@ -1,5 +1,5 @@
 # Academy
 
-Choose a certification path:
+Choose path/module:
 
 - [CPTS](CPTS)
